@@ -1,0 +1,13 @@
+.gioithieu {
+	width: 900px;
+	margin: 100px 0px 20px 250px;
+}
+
+.gioithieu h2 {
+	line-height: 35px;
+}
+
+.gioithieu p {
+	font-size: 20px;
+	line-height: 30px;
+}
